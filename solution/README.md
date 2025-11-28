@@ -1,4 +1,4 @@
-CSV Server Setup Guide
+# CSV Server Setup Guide
 
 This guide explains how to set up the environment and run the CSVServer project on Ubuntu using Docker. It includes steps from VM setup to fetching the server output.
 
@@ -139,6 +139,23 @@ solution/
 ✔ Output saved in part-1-output
 ✔ Logs saved in part-1-logs
 ✔ Run command saved in part-1-cmd
+
+refrence screenshot:
+
+task 1:
+<img width="1280" height="369" alt="Screenshot From 2025-11-28 22-11-13" src="https://github.com/user-attachments/assets/6da6ca08-ee8d-461c-9256-3081e4fc5736" />
+
+task2:
+<img width="1280" height="800" alt="Screenshot From 2025-11-28 22-12-24" src="https://github.com/user-attachments/assets/70c42485-0a87-4d2d-b849-a906478bf9ec" />
+
+port assigned as mentioned in task description
+<img width="1267" height="171" alt="Screenshot From 2025-11-28 22-13-22" src="https://github.com/user-attachments/assets/ee014c4a-d04b-4cde-9342-2dcfb8241020" />
+
+file structure:
+<img width="1280" height="503" alt="Screenshot From 2025-11-28 23-02-02" src="https://github.com/user-attachments/assets/d75f6b28-54ac-4530-9c1a-d97e224b055f" />
+
+task3:
+Docker compose and promithius
 
 -------
 
