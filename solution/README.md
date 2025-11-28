@@ -156,7 +156,14 @@ file structure:
 
 task3:
 Docker compose and promithius
+<img width="1280" height="800" alt="Screenshot From 2025-11-29 00-09-52" src="https://github.com/user-attachments/assets/ba3ec052-8ae3-47eb-b0ba-46ad4b29d318" />
+
+docker compose running
+<img width="1280" height="800" alt="Screenshot From 2025-11-29 00-11-34" src="https://github.com/user-attachments/assets/ba668cee-3e50-4d59-a1bf-d70f464568aa" />
+
+
+web
+<img width="1280" height="800" alt="Screenshot From 2025-11-29 00-03-48" src="https://github.com/user-attachments/assets/2733fea9-18f7-4ee5-95b4-0ce932a62ecf" />
 
 -------
-
-# Note and screenshot for refrence:
+# done
